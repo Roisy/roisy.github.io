@@ -91,21 +91,16 @@
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Fernando Manuel Quintana Velázquez",
+            "name": "Fernando M. Quintana Velázquez",
             "job": "Ingeniero Informático"
         }, {
             "img": "img/team/03.jpg",
             "name": "Juan Francisco Cabrera",
             "job": "Ingeniero Informático"
-        },
-        {
-            "img": "img/team/04.jpg",
-            "name": "Eevaa ",
-            "job": "Secretaria"
         }
     ],
     "Contact": {
-        "address": "Villamartín, Cádiz ",
+        "address": "Cádiz, Spain ",
         "phone": "+34 690257211",
         "email": "roisy.sa@gmail.com",
         "instagram": "https://www.instagram.com/roisy.sa",
