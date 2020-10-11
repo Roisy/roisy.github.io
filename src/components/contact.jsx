@@ -74,16 +74,16 @@ export class Contact extends Component {
                   <ul>
                     <li>
                       <a
-                        href={this.props.data ? this.props.data.facebook : "/"}
+                        href={this.props.data ? this.props.data.instagram : "/"}
                       >
-                        <i className="fa fa-facebook"></i>
+                        <i className="fa fa-instagram"></i>
                       </a>
                     </li>
-                    <li>
+                    {/*<li>
                       <a href={this.props.data ? this.props.data.twitter : "/"}>
                         <i className="fa fa-twitter"></i>
                       </a>
-                    </li>
+                    </li>*/}
                     <li>
                       <a href={this.props.data ? this.props.data.youtube : "/"}>
                         <i className="fa fa-youtube"></i>

@@ -1,3 +1,8 @@
+@font-face {
+	font-family: 'Audiowide';
+	src: local('Audiowide'), url(../fonts/Audiowide-Regular.ttf) format('truetype');
+}
+
 body, html {
 	font-family: 'Open Sans', sans-serif;
 	text-rendering: optimizeLegibility !important;
@@ -75,7 +80,7 @@ hr {
 	box-shadow: 0 0 10px rgba(0,0,0,0.15)
 }
 #menu a.navbar-brand {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Audiowide', sans-serif;
 	font-size: 24px;
 	font-weight: 700;
 	color: #333;
@@ -421,7 +426,7 @@ header .intro-text {
 	margin: 5px 0;
 }
 #team .team-img {
-	width: 240px;
+	height: 240px;
 }
 #team .thumbnail {
 	background: transparent;
@@ -577,4 +582,8 @@ color: #777;
 #about img {
 	margin: 50px 0;
 }
+}
+
+#ROISY-name {
+	font-family: Audiowide, sans-serif;
 }
