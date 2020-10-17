@@ -238,7 +238,7 @@ a:focus,
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
+	background: url(../img/intro-bg.png) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -272,7 +272,7 @@ a:focus,
 header .intro-text {
 	padding-top: 350px;
 	padding-bottom: 200px;
-	text-align: center;
+	text-align: left;
 }
 /* Features Section */
 #features {
