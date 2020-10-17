@@ -21,33 +21,33 @@
 	"Services": [
 		{
 			"icon": "fa fa-wordpress",
-			"name": "Lorem ipsum dolor",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"name": "Robot esférico",
+			"text": "Diseño, construcción y programación de un robot esférico OpenSource."
 		},
 		{
 			"icon": "fa fa-cart-arrow-down",
-			"name": "Consectetur adipiscing",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"name": "Drones",
+			"text": "Diseño, construcción y programación de drones y microdrones."
 		},
 		{
 			"icon": "fa fa-cloud-download",
-			"name": "Lorem ipsum dolor",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-		},
-		{
-			"icon": "fa fa-language",
-			"name": "Consectetur adipiscing",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"name": "Zambi",
+			"text": "Construcción de un prototipo de robot orientado a la educación."
 		},
 		{
 			"icon": "fa fa-plane",
-			"name": "Lorem ipsum dolor",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"name": "Aplicaciones AR/VR",
+			"text": "Diseño y programación de aplicaciones y juegos de realidad virtual y realidad aumentada."
+		},
+		{
+			"icon": "fa fa-language",
+			"name": "Diseño y renderizado 3D",
+			"text": "Diseño y renderizado 3D en blender."
 		},
 		{
 			"icon": "fa fa-pie-chart",
-			"name": "Consectetur adipiscing",
-			"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+			"name": "Eevaa",
+			"text": "Robot humanoide con visión artificial y función de asistente virtual integrada."
 		}
 	],
 	"Testimonials": [
@@ -100,7 +100,7 @@
 		}
 	],
 	"Contact": {
-		"address": "Cádiz, Spain ",
+		"address": "Cádiz, España ",
 		"phone": "+34 690257211",
 		"email": "roisy.sa@gmail.com",
 		"instagram": "https://www.instagram.com/roisy.sa",

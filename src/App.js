@@ -27,7 +27,6 @@ export class App extends Component {
       <div>
         <Navigation />
         <Header data={this.state.landingPageData.Header} />
-        <Features data={this.state.landingPageData.Features} />
         <About data={this.state.landingPageData.About} />
         <Services data={this.state.landingPageData.Services} />
         <Gallery />

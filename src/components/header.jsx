@@ -8,7 +8,7 @@ export class Header extends Component {
           <div className="overlay">
             <div className="container">
               <div className="row">
-                <div className="col-md-8 col-md-offset-2 intro-text">
+                <div className="col-md-8 intro-text">
                   <h1 id="ROISY-name">
                     {this.props.data ? this.props.data.title : "Loading"}
                     <span></span>
@@ -17,10 +17,10 @@ export class Header extends Component {
                     {this.props.data ? this.props.data.paragraph : "Loading"}
                   </p>
                   <a
-                    href="#features"
+                    href="#contact"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                    Learn More
+                    Contacta con nosotros
                   </a>{" "}
                 </div>
               </div>

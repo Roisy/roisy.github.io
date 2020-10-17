@@ -14,20 +14,21 @@ export class Gallery extends Component {
           </div>
           <div className="row">
             <div className="portfolio-items">
+              
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/01-large.jpg"
+                      href="img/portfolio/proyectos/IMG_20201017_163004.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Eevaa</h4>
                       </div>
                       <img
-                        src="img/portfolio/01-small.jpg"
+                        src="img/portfolio/proyectos/IMG_20201017_163004.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -40,15 +41,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/02-large.jpg"
+                      href="img/portfolio/proyectos/IMG_20201017_163146.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Máscara de silicona de Eevaa</h4>
                       </div>
                       <img
-                        src="img/portfolio/02-small.jpg"
+                        src="img/portfolio/proyectos/IMG_20201017_163146.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -61,15 +62,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/03-large.jpg"
+                      href="img/portfolio/proyectos/IMG_20201017_163336.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Robot esférico</h4>
                       </div>
                       <img
-                        src="img/portfolio/03-small.jpg"
+                        src="img/portfolio/proyectos/IMG_20201017_163336.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -82,15 +83,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/04-large.jpg"
+                      href="img/portfolio/proyectos/IMG_20201017_163352.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Electrónica robot esférico</h4>
                       </div>
                       <img
-                        src="img/portfolio/04-small.jpg"
+                        src="img/portfolio/proyectos/IMG_20201017_163352.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -103,15 +104,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/05-large.jpg"
+                      href="img/portfolio/proyectos/IMG_20201017_163753.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Dron</h4>
                       </div>
                       <img
-                        src="img/portfolio/05-small.jpg"
+                        src="img/portfolio/proyectos/IMG_20201017_163753.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -124,15 +125,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/06-large.jpg"
+                      href="img/portfolio/proyectos/eevaa.png"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>Modelado en 3D y renderizado de Eevaa</h4>
                       </div>
                       <img
-                        src="img/portfolio/06-small.jpg"
+                        src="img/portfolio/proyectos/eevaa.png"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -145,15 +146,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/07-large.jpg"
+                      href="img/portfolio/proyectos/IMG_20201017_162900.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Dolor Sit</h4>
+                        <h4>Eevaa</h4>
                       </div>
                       <img
-                        src="img/portfolio/07-small.jpg"
+                        src="img/portfolio/proyectos/IMG_20201017_162900.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -166,15 +167,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/08-large.jpg"
+                      href="img/portfolio/proyectos/IMG_20201017_162702.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Lorem Ipsum</h4>
+                        <h4>Zambi</h4>
                       </div>
                       <img
-                        src="img/portfolio/08-small.jpg"
+                        src="img/portfolio/proyectos/IMG_20201017_162702.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -187,15 +188,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/portfolio/09-large.jpg"
+                      href="img/portfolio/proyectos/IMG_20201017_163515.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Adipiscing Elit</h4>
+                        <h4>Oculus GO</h4>
                       </div>
                       <img
-                        src="img/portfolio/09-small.jpg"
+                        src="img/portfolio/proyectos/IMG_20201017_163515.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -203,6 +204,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>
+              
             </div>
           </div>
         </div>
