@@ -6,7 +6,7 @@ export class Gallery extends Component {
       <div id="portfolio" className="text-center">
         <div className="container">
           <div className="section-title">
-            <h2>Gallery</h2>
+            <h2>Galería</h2>
           </div>
           <div className="row">
             <div className="portfolio-items">
